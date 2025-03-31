@@ -1,20 +1,12 @@
 # 💫 About Me:
 zRageyh_
-💻 Minecraft Plugin Developer | Java Coder | Server Developer
+💻 **Minecraft Plugin Developer | Java Coder | Server Developer**
 Ciao! Sono Enrico, sviluppatore appassionato di plugin per Minecraft. Mi dedico alla creazione di soluzioni innovative per server, sviluppo di sistemi custom e ottimizzazione delle performance di gioco.
 💼 Esperienza
 
-Developer @ MetaMc (Attuale)
+**Developer @ MetaMc (Attuale)**
 
-Sviluppo plugin personalizzati
-Ottimizzazione performance server
-
-
-Ex Developer @ Waraccademy
-
-Creazione sistemi di gioco customizzati
-Implementazione meccaniche PvP avanzate
-
+**Ex Developer @ Waraccademy**
 
 
 🛠️ Competenze Tecniche
@@ -24,17 +16,17 @@ Database: MongoDB, MySQL, Redis
 Tools: Git, Maven, Gradle, BuildTools
 Ambienti: Linux (Ubuntu/Debian), Windows Server
 
-🌱 Progetti
+**🌱 Progetti**
 
 FactionCore: Sistema avanzato per fazioni con economia integrata
 PvPEnhanced: Plugin per migliorare il combattimento PvP
 ServerOptimizer: Tool per ottimizzare le performance dei server
 
-📫 Contatti
+**📫 Contatti**
 
-📧 Email: info@libuttienrico.it
-🌐 Sito web: libuttienrico.it
-📱 Telefono: +39 346 756 3509
+**📧 Email:** info@libuttienrico.it
+**🌐 Sito web:** libuttienrico.it
+**📱 Telefono:** +39 346 756 3509
 📍 Milano
 
 
